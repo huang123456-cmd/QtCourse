@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/actionCopy.png</file>
+        <file>icon/actionCut.png</file>
+        <file>icon/actionExit.png</file>
+        <file>icon/actionFind.png</file>
+        <file>icon/actionFont.png</file>
+        <file>icon/actionNew.png</file>
+        <file>icon/actionOpen.png</file>
+        <file>icon/actionPaste.png</file>
+        <file>icon/actionRedo.png</file>
+        <file>icon/actionReplace.png</file>
+        <file>icon/actionSave.png</file>
+        <file>icon/actionSaveAs.png</file>
+        <file>icon/actionSelectAll.png</file>
+        <file>icon/actionShowLineNumber.png</file>
+        <file>icon/actionStatusBar.png</file>
+        <file>icon/actionUndo.png</file>
+        <file>icon/actionWordWrap.png</file>
+        <file>icon/ToolBar.png</file>
+    </qresource>
+</RCC>
